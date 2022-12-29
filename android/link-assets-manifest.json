@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/font/charcoal.ttf",
+      "sha1": "3accde7a480b2ba974c8eed44ae5a6ba56050ba7"
+    },
+    {
+      "path": "assets/font/MN Tomyam.ttf",
+      "sha1": "d1aefab409981ba4d3d5a480f6080d306620dda5"
+    }
+  ]
+}
